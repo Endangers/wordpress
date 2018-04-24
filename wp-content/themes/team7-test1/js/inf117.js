@@ -1,0 +1,4 @@
+function displayaddDiv()
+{
+	$("#add").show();
+}

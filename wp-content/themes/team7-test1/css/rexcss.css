@@ -1,0 +1,27 @@
+/* Edited by Bookworms
+*/
+
+.book_title {
+	font-family: District-Medium, Helvetica; 
+	font-weight: normal; 
+	font-style: normal; 
+	font-size: 20px;
+}
+
+.book_paragraph {
+	font-family: District-BoldItalic, Helvetica; 
+	font-weight: normal; 
+	font-style: normal;
+}
+
+.description {
+	font-weight: bold;
+}
+
+.catergory_tags {
+	font-weight: bold;
+}
+
+.age_group_tags {
+	font-weight: bold;
+}

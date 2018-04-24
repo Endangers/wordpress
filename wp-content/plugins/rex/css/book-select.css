@@ -1,0 +1,71 @@
+.book-wrap {
+  width: 100%;
+  padding: 0.5em;
+
+  font-family: District-Medium, Helvetica; 
+  font-weight: normal; 
+  font-style: normal; 
+  font-size: 15px;
+
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.under-selector {
+  padding-top: 5px;
+  padding-right: 10px;
+}
+.post-button {
+  padding-top: 20px;
+}
+.book-wrap.book-wrap-half {
+  width: 50%;
+  float: left;
+  padding-right: 5px;
+}
+.book-tags {
+}
+.book-wrap.book-wrap-one-third {
+  width: 33.3%;
+  float: left;
+}
+.book-wrap.book-wrap-two-third {
+  width: 66.6%;
+  float: left;
+}
+.book-wrap input.large-text, .book-wrap textarea.large-text {
+  width: 100%;
+}
+.edit-link {
+  float: right;
+  width: 40px;
+  height: 20px;
+  font-size: 10px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 7px;
+  margin-top: 3px;
+}
+.book-label {
+  margin-bottom: 5px;
+  max-width: 455px;
+  background-color: #eee;
+}
+.user-selection {
+  padding-top: 10px;
+}
+.large-text {
+  font-size: 14px;
+  font-family: sans-serif;
+}
+#book-select-thumbnail-img {
+  display: block;
+  margin: 0 auto;
+}
+#book-select-description[readonly] {
+  /* background-color: #eee; */
+}
+.editable {
+  background-color: white!important;
+  color: black!important;
+}
